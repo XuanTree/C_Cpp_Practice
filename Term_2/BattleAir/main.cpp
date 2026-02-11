@@ -1,4 +1,6 @@
 #include <iostream>
+#include <chrono>
+#include <thread>
 #include <vector>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
@@ -180,10 +182,12 @@ int main(){
             window.draw(finalScore);
             window.display();
             defeatSound.play();
-            system("pause");
+            std::this_thread::sleep_for(std::chrono::milliseconds(5000));
+            goto end;
             return 0;
         }
         window.display(); // Display everything on screen
-    }  
+    }
+    end:   
     return 0;
 }

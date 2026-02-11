@@ -1,5 +1,4 @@
 #include <random>
-#include <iostream>
 float GenRandomPos(){
    std::mt19937 gen(std::random_device{}());
    std::uniform_real_distribution<float> dis(0.f,600.f);
@@ -9,6 +8,6 @@ float GenRandomPos(){
 float GenRandomTime(){
     std::mt19937 gen(std::random_device{}());
     std::uniform_real_distribution<float> dis(0.8f,2.1f);
-
+    
     return dis(gen);
 }
