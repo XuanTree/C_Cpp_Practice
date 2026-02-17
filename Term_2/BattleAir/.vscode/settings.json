@@ -1,3 +1,10 @@
 {
-    "Codegeex.RepoIndex": true
+    "Codegeex.RepoIndex": true,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#e9dbb7",
+        "activityBarBadge.background": "#e9dbb7",
+        "activityBarBadge.foreground": "#262626",
+        "statusBar.background": "#16161e",
+        "statusBar.foreground": "#de7802"
+    } 
 }
