@@ -36,6 +36,6 @@ int main(){
     }
     std:: cout << "You have won " << win_times << " times!" << std:: endl;
 
-    system("pause");
+    //system("pause");
     return 0;
 }

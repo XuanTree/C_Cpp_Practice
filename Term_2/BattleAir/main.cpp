@@ -122,18 +122,18 @@ int main(){
                 window.draw(ene);
                 ene.Shoot(enemyAmmos,ene.getPosition());
             }
-            //É¾³ýÆÁÄ»ÍâµÄ×Óµ¯
+            //É¾ï¿½ï¿½ï¿½ï¿½Ä»ï¿½ï¿½ï¿½ï¿½Óµï¿½
             for(auto it = ammos.begin(); it != ammos.end(); ){
                 if(it->getPosition().y < -100.f || it->getPosition().y > height){
-                    it = ammos.erase(it); // É¾³ýÔªËØ²¢¸üÐÂµü´úÆ÷
+                    it = ammos.erase(it); // Erase and update iterator
                     defeatSound.play();
                     scores++;
                 }
                 else{
-                    ++it; // Ö»ÓÐÔÚ²»É¾³ýÔªËØÊ±²ÅµÝÔöµü´úÆ÷
+                    ++it; // Update iterator if not erasing
                 }
             }
-            //É¾³ýÆÁÄ»ÍâµÄµÐ·½×Óµ¯
+            //remove the enemy's ammo that goes out of screen
             for(auto it = enemyAmmos.begin(); it != enemyAmmos.end(); ){
                 if(it->getPosition().y < -100.f || it->getPosition().y > height){
                     it = enemyAmmos.erase(it);
@@ -163,7 +163,7 @@ int main(){
                 }
             }
 
-            //É¾³ýÆÁÄ»ÍâµÄµÐÈË
+            //remove the enemy that goes out of screen
             for(auto it = enemy.begin();it != enemy.end(); ){
                 if(it->getPosition().y < -100.f || it->getPosition().y > height){
                         it = enemy.erase(it);

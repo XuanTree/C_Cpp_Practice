@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/C_C++/Term_2/PlatForm/build",
+  "command": "D:\\MinGW64\\bin\\c++.exe -g -o CMakeFiles\\PlatForm.dir\\main.cpp.obj -c D:\\C_C++\\Term_2\\PlatForm\\main.cpp",
+  "file": "D:\\C_C++\\Term_2\\PlatForm\\main.cpp",
+  "output": "CMakeFiles\\PlatForm.dir\\main.cpp.obj"
+}
+]

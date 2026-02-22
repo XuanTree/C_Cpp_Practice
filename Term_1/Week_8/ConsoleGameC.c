@@ -56,7 +56,7 @@ int main(){
     Character(*p_characterSet)(double,double,double);
     p_characterSet = &characterSet;
     printf("Welcome to the C Console Game!\n");
-    printf("Input your data(HP Defence Damage):");
+    printf("Input your data(HP Defense Damage):");
     scanf("%lf %lf %lf",&player_health,&player_defence,&player_damage);
     Character ch = p_characterSet(player_health,player_defence,player_damage);
     while(1){

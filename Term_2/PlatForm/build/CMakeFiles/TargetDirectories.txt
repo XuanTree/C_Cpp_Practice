@@ -1,0 +1,3 @@
+D:/C_C++/Term_2/PlatForm/build/CMakeFiles/PlatForm.dir
+D:/C_C++/Term_2/PlatForm/build/CMakeFiles/edit_cache.dir
+D:/C_C++/Term_2/PlatForm/build/CMakeFiles/rebuild_cache.dir

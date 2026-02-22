@@ -1,0 +1,6 @@
+CompileFlags:
+  Add: [
+    "-I", "D:/SFML64/include",
+    "-Iinclude",
+    "-std=c++17"
+  ]
