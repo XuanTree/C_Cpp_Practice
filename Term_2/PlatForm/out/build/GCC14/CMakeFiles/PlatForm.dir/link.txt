@@ -1,0 +1,3 @@
+D:\MinGW64\bin\cmake.exe -E rm -f CMakeFiles\PlatForm.dir/objects.a
+D:\MinGW64\bin\ar.exe qc CMakeFiles\PlatForm.dir/objects.a @CMakeFiles\PlatForm.dir\objects1.rsp
+D:\MinGW64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\PlatForm.dir/objects.a -Wl,--no-whole-archive -o PlatForm.exe -Wl,--out-implib,libPlatForm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PlatForm.dir\linkLibs.rsp

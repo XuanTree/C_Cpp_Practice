@@ -1,8 +1,20 @@
 [
 {
   "directory": "D:/C_C++/Term_2/PlatForm/build",
-  "command": "D:\\MinGW64\\bin\\c++.exe -g -o CMakeFiles\\PlatForm.dir\\main.cpp.obj -c D:\\C_C++\\Term_2\\PlatForm\\main.cpp",
+  "command": "D:\\MinGW64\\bin\\c++.exe -isystem D:/SFML64/include -g -o CMakeFiles\\PlatForm.dir\\main.cpp.obj -c D:\\C_C++\\Term_2\\PlatForm\\main.cpp",
   "file": "D:\\C_C++\\Term_2\\PlatForm\\main.cpp",
   "output": "CMakeFiles\\PlatForm.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Term_2/PlatForm/build",
+  "command": "D:\\MinGW64\\bin\\c++.exe -isystem D:/SFML64/include -g -o CMakeFiles\\PlatForm.dir\\include\\MenuState.cpp.obj -c D:\\C_C++\\Term_2\\PlatForm\\include\\MenuState.cpp",
+  "file": "D:\\C_C++\\Term_2\\PlatForm\\include\\MenuState.cpp",
+  "output": "CMakeFiles\\PlatForm.dir\\include\\MenuState.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Term_2/PlatForm/build",
+  "command": "D:\\MinGW64\\bin\\c++.exe -isystem D:/SFML64/include -g -o CMakeFiles\\PlatForm.dir\\include\\GameState.cpp.obj -c D:\\C_C++\\Term_2\\PlatForm\\include\\GameState.cpp",
+  "file": "D:\\C_C++\\Term_2\\PlatForm\\include\\GameState.cpp",
+  "output": "CMakeFiles\\PlatForm.dir\\include\\GameState.cpp.obj"
 }
 ]
