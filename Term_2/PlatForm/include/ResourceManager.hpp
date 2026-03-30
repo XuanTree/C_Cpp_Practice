@@ -55,6 +55,24 @@ public:
         }
         return fonts.at(name);
     }
+    // 加载声音缓冲
+    void loadSoundBuffer(const std::string& name, const std::string& filename){
+        sf::SoundBuffer soundBuffer;
+        if(soundBuffer.loadFromFile(filename)){
+            soundBuffers[name] = soundBuffer;
+        } else {
+            std::cerr << "Failed to load sound buffer: " << filename << std::endl;
+        }
+    }
+    // 获取声音缓冲
+    sf::SoundBuffer& getSoundBuffer(const std::string& name){
+        auto it = soundBuffers.find(name);
+        if (it == soundBuffers.end()) {
+            std::cerr << "Sound buffer not found: " << name << " returning empty sound buffer." << std::endl;
+            soundBuffers[name] = sf::SoundBuffer();
+        }
+        return soundBuffers.at(name);
+    }
 };
 
 #endif // RESOURCE_MANAGER_HPP

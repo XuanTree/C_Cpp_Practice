@@ -21,7 +21,10 @@ private:
 public:
   ResourceManager resources; // 资源管理器实
 
-  Game() { window.create(sf::VideoMode({800, 600}), "Platform Jumping"); }
+  Game() {
+    window.create(sf::VideoMode({800, 600}), "Platform Jumping");
+    window.setVerticalSyncEnabled(true);
+  }
   void pushState(std::unique_ptr<State> state) {
     states.push(std::move(state));
   }

@@ -10,7 +10,10 @@ int main() {
     game.resources.loadTexture("menuBg", "assets/sprites/SimpleBg.png");
     // 预加载玩家贴图，避免切换到 GameState 时找不到资源导致异常
     game.resources.loadTexture("SimpleBg", "assets/sprites/SimpleBg.png");
-    game.resources.loadTexture("PlayerTexture", "assets/sprites/PlayerTexture.png");
+    game.resources.loadTexture("knight", "assets/sprites/knight.png");
+    game.resources.loadSoundBuffer("jump", "assets/sounds/jump.wav");
+    // 加载平台贴图
+    game.resources.loadTexture("PlatformTexture","assets/sprites/PlatformTexture.png");
 
     // 创建菜单状态并推入栈
     game.pushState(std::make_unique<MenuState>(game));
