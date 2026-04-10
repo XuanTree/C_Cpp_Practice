@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/C_C++/Term_2/SDL/build",
+  "command": "D:\\MinGW64\\bin\\c++.exe -ID:/SDL3-mingw/x86_64-w64-mingw32/include -g -o CMakeFiles\\MySDL3Project.dir\\main.cpp.obj -c D:\\C_C++\\Term_2\\SDL\\main.cpp",
+  "file": "D:\\C_C++\\Term_2\\SDL\\main.cpp",
+  "output": "CMakeFiles\\MySDL3Project.dir\\main.cpp.obj"
+}
+]

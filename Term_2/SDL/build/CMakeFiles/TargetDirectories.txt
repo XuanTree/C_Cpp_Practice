@@ -1,0 +1,3 @@
+D:/C_C++/Term_2/SDL/build/CMakeFiles/MySDL3Project.dir
+D:/C_C++/Term_2/SDL/build/CMakeFiles/edit_cache.dir
+D:/C_C++/Term_2/SDL/build/CMakeFiles/rebuild_cache.dir
