@@ -1,3 +1,57 @@
-//
-// Created by 玄树 on 2026/4/30.
-//
+#include <iostream>
+
+using namespace std;
+
+template <class T>
+int Search(T nValues[], int n, T d) {
+    bool isFound = false;
+    for (int i = 0; i < n; i++) {
+        if (nValues[i] == d) {
+            isFound = true;
+            return i;
+        }
+    }
+    if (!isFound) {
+        return -1;
+    }
+}
+
+
+int main()
+{
+    int n;
+    std::cin >> n;
+    int *nValues  = new int[n];
+    for (int i = 0; i < n; i++)
+    {
+        std::cin >> nValues[i];
+    }
+    int d;
+    std::cin >> d;
+    std::cout << Search(nValues, n, d) << std::endl;
+    delete[] nValues;
+
+    double f;
+    std::cin >> n;
+    double *dValues = new double[n];
+    for (int i = 0; i < n; i++)
+    {
+        std::cin >> dValues[i];
+    }
+    std::cin >> f;
+    std::cout << Search(dValues, n, f) << std::endl;
+    delete[] dValues;
+
+    std::cin >> n;
+    char *cValues = new char[n];
+    for (int i = 0; i < n; i++)
+    {
+        std::cin >> cValues[i];
+    }
+    char c;
+    std::cin >> c;
+    std::cout << Search(cValues, n, c) << std::endl;
+    delete[] cValues;
+
+    return 0;
+}

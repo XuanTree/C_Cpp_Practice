@@ -1,0 +1,7 @@
+CompileFlags:
+  Compiler: x86_64-w64-mingw32-g++
+  Add: [
+    "-std=c++17",
+    "-Wall",
+    "-ID:MinGW64/include"
+  ]

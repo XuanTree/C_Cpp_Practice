@@ -1,6 +1,0 @@
-CompileFlags:
-    Add: [
-        "-I", "D:/SDL3-mingw/x86_64-w64-mingw32/include",
-        "-I", "./include",
-        "-std=c++17"
-    ]

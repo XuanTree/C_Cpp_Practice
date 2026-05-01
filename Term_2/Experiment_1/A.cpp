@@ -1,5 +1,4 @@
 #include <cmath>
-#include <ios>
 #include <iostream>
 #include <iomanip>
 
@@ -22,13 +21,12 @@ double Circle::area() const {
 }
 
 void Circle::output() const {
-    std::cout << std::setiosflags(std::ios::fixed) << std::setprecision(2) << Circle::area();
+    std::cout << std::setiosflags(std::ios::fixed) << std::setprecision(2) << this->area();
 }
 
-int main ( ) {
-    Circle circle = Circle();
+int main() {
+    Circle circle;
     circle.input();
-    circle.area();
     circle.output();
     return 0;
 }

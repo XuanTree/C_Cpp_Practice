@@ -17,4 +17,3 @@ add_executable(PlatForm
 # 链接SFML库，包括音频模块（ResourceManager使用了 sf::SoundBuffer）
 target_link_libraries(PlatForm PRIVATE SFML::Graphics SFML::Window SFML::System SFML::Audio)
 
-

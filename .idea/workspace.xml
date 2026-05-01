@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/StickyLines/Enabled/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b70f0370-028b-4390-8101-7aad7ebba2b4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Term_2/Experiment_5/T5-03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/Experiment_1/A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Term_2/Experiment_1/A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/Expetiment_4/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/Expetiment_4/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/Expetiment_4/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/Expetiment_4/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/Expetiment_4/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Term_2/PlatForm/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/3.31.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/Term_2/PlatForm/out/build/GCC14/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/.cache/clangd/index/main.cpp.0E2CD73DA2182D56.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/.clangd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/query/client-vscode/query.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/cache-v2-69b6fb139d9965592f4d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/cmakeFiles-v1-678f277f1c784c115886.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/codemodel-v2-23b2b81ed7dcdf5b51fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/index-2026-04-15T14-32-43-0550.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/target-MySDL3Project-Debug-3a51d269a57f6ce91408.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.cmake/api/v1/reply/toolchains-v1-c19b050efe2e430c00f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/3.31.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/MySDL3Project.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/MySDL3Project.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/SDL3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/build/compile_commands.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term_2/SDL/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="Cbw9pFai" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3D59ecA83lzilixQGqB6AHN8IqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b70f0370-028b-4390-8101-7aad7ebba2b4" name="更改" comment="" />
+      <created>1777561160708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777561160708</updated>
+      <workItem from="1777561162595" duration="196000" />
+      <workItem from="1777561379943" duration="170000" />
+      <workItem from="1777561564366" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
