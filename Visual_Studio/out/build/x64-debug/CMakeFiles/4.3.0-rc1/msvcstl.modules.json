@@ -1,0 +1,17 @@
+{
+  "modules" : 
+  [
+    {
+      "is-std-library" : true,
+      "logical-name" : "std",
+      "source-path" : "D:/Visual Studio/Community/VC/Tools/MSVC/14.50.35717/modules/../modules/std.ixx"
+    },
+    {
+      "is-std-library" : true,
+      "logical-name" : "std.compat",
+      "source-path" : "D:/Visual Studio/Community/VC/Tools/MSVC/14.50.35717/modules/../modules/std.compat.ixx"
+    }
+  ],
+  "revision" : 1,
+  "version" : 1
+}

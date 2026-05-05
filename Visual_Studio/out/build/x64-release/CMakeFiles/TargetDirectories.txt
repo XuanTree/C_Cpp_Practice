@@ -1,0 +1,3 @@
+D:/C_C++/Visual_Studio/out/build/x64-release/CMakeFiles/Visual_Studio.dir
+D:/C_C++/Visual_Studio/out/build/x64-release/CMakeFiles/edit_cache.dir
+D:/C_C++/Visual_Studio/out/build/x64-release/CMakeFiles/rebuild_cache.dir
