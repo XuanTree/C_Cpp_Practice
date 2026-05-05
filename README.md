@@ -7,16 +7,16 @@
 ## 仓库的结构说明：
 
 ```
-BJFUOJ                  // 北林OJ上的部分题目
-LuoGu                   // 在洛谷上刷的OJ题目
+LuoGu                   // 在洛谷上刷的OJ题目j
 Term_1                  // 第一学期C语言的学习和作业
+    | -- BJFUOJ             // 北林OJ上刷的部分题目
     | -- Project            // 第一学期课程设计
     | -- Week_X             // 第X周作业
 Term_2                  // 第二学期C++的学习和作业
     | -- Experiment_X       // C++实验X 作业题
-    | -- BattleAir          // 飞机大战项目
+    | -- MidTermExam        // C++期中考试备考
     | -- PlatForm           // 平台跳跃项目
-Visual_Studio           // 关于如何在Visual Studio上配置C/C++
+Visual_Studio           // 关于如何在Visual Studio上配置C/C++, Cmake
 ```
 
 如果觉得这个仓库对你有帮助，不妨点一个Star⭐吧~

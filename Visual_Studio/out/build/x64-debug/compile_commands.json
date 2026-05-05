@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/x64-debug",
+  "command": "\"D:\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -ID:\\C_C++\\Visual_Studio\\.\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Visual_Studio.dir\\main.cpp.obj /FdCMakeFiles\\Visual_Studio.dir\\ /FS -c D:\\C_C++\\Visual_Studio\\main.cpp",
+  "file": "D:/C_C++/Visual_Studio/main.cpp",
+  "output": "D:/C_C++/Visual_Studio/out/build/x64-debug/CMakeFiles/Visual_Studio.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/x64-debug",
+  "command": "\"D:\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -ID:\\C_C++\\Visual_Studio\\.\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Visual_Studio.dir\\src\\Student.cpp.obj /FdCMakeFiles\\Visual_Studio.dir\\ /FS -c D:\\C_C++\\Visual_Studio\\src\\Student.cpp",
+  "file": "D:/C_C++/Visual_Studio/src/Student.cpp",
+  "output": "D:/C_C++/Visual_Studio/out/build/x64-debug/CMakeFiles/Visual_Studio.dir/src/Student.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/x64-debug",
+  "command": "\"D:\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -ID:\\C_C++\\Visual_Studio\\.\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Visual_Studio.dir\\src\\Test.cpp.obj /FdCMakeFiles\\Visual_Studio.dir\\ /FS -c D:\\C_C++\\Visual_Studio\\src\\Test.cpp",
+  "file": "D:/C_C++/Visual_Studio/src/Test.cpp",
+  "output": "D:/C_C++/Visual_Studio/out/build/x64-debug/CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"
+}
+]
