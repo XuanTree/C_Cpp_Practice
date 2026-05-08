@@ -3,7 +3,7 @@
 class Test {
 private:
 	int a;
-public: 
+public:
 	Test() = default;
 	explicit Test(const int a) : a(a) {};
 	void print() const;
@@ -18,11 +18,11 @@ public:
 	void Print() const;
 };
 
-template<typename T> 
+template<typename T>
 class SwapTwoThings {
 private:
-	T& variable1;
-	T& variable2;
+	T* variable1;
+	T* variable2;
 public:
 	SwapTwoThings() = delete;
 	SwapTwoThings(T& var1, T& var2);

@@ -22,13 +22,13 @@ template class PrintThings<char>;
 template class PrintThings<char*>;
 
 template<typename T>
-SwapTwoThings<T>::SwapTwoThings(T& var1, T& var2) : variable1(var1), variable2(var2) {}
+SwapTwoThings<T>::SwapTwoThings(T& var1, T& var2) : variable1(&var1), variable2(&var2) {}
 
 template<typename T>
 void SwapTwoThings<T>::Swap() {
-	T temp = std::move(variable1);
-	variable1 = std::move(variable2);
-	variable2 = std::move(temp);
+	T temp = std::move(*variable1);
+	*variable1 = std::move(*variable2);
+	*variable2 = std::move(temp);
 
 	std::cout << "Swapped Successfully!" << std::endl;
 }

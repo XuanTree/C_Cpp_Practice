@@ -3,15 +3,24 @@
 
 class Person {
 protected:
-	std::string name;
-	int age = -1;
-	std::string job;
+	std::string codeName;
+	std::string gender;
+	std::string animalType;
+	float damage;
+	float health;
 public:
-	virtual ~Person() = default;
-
 	Person() = default;
-	inline Person(const std::string &_name, int age, const std::string &job)
-		: name(_name), age(age), job(job) {}
-	virtual void PrintMessages() const = 0;
-	virtual void ChangeTheJob(std::string new_job) = 0;
+	inline Person(std::string _codeName, std::string _gender, std::string _animalType, float health = 0,
+		float damage = 0) : codeName(_codeName), gender(_gender), animalType(_animalType),
+		damage(damage), health(health) {};
+	virtual ~Person() {}
+	
+	virtual std::string GetCodeName() = 0;
+	virtual std::string GetGender() = 0;
+	virtual std::string GetAnimalType() = 0;
+	virtual float GetDamage() = 0;
+	virtual float GetHealth() = 0;
+	virtual void SetHealth(float _health) = 0;
+	virtual void Attack(Person& target) = 0;
+	virtual void Skill() = 0;
 };

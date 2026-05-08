@@ -7,4 +7,4 @@ aux_source_directory(./src srcs)
 
 project (Visual_Studio)
 
-add_executable(Visual_Studio main.cpp ${srcs})
+add_executable(Visual_Studio main.cpp ${srcs} )

@@ -14,24 +14,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b14149a3-e397-4c4d-a272-72056d35d53f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\C_C\u002B\u002B\\Visual_Studio\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\C_C\u002B\u002B\\Visual_Studio\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-05T07:56:07.189Z",
+              "OverriddenGroupName": "",
+              "OverriddenToolTip": "main.cpp",
+              "WhenOpened": "2026-05-06T07:47:11.747Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b14149a3-e397-4c4d-a272-72056d35d53f}"
             }
           ]
         }
