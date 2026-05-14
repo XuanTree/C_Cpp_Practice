@@ -1,0 +1,8 @@
+//
+// Created by 玄树 on 2026/5/13.
+//
+
+#ifndef BATTLEAIRNEO_STRING_HPP
+#define BATTLEAIRNEO_STRING_HPP
+
+#endif //BATTLEAIRNEO_STRING_HPP
