@@ -12,7 +12,9 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\include"
   ],
+  "SelectedNode": "\\include\\Person.hpp",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,36 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "D:/C_C++/Term_2/BattleAirNeo/out/build/x64-Debug",
+	"dir-cur-src" : "D:/C_C++/Term_2/BattleAirNeo",
+	"dir-top-bld" : "D:/C_C++/Term_2/BattleAirNeo/out/build/x64-Debug",
+	"dir-top-src" : "D:/C_C++/Term_2/BattleAirNeo",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\C_C++\\Term_2\\BattleAirNeo\\.\\include",
+		"D:\\SFML64\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/C_C++/Term_2/BattleAirNeo/out/build/x64-Debug/CMakeFiles/BattleAirNeo.dir",
+	"sources" : 
+	{
+		"CMakeFiles/BattleAirNeo.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/C_C++/Term_2/BattleAirNeo/main.cpp"
+		},
+		"CMakeFiles/BattleAirNeo.dir/src/test.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/C_C++/Term_2/BattleAirNeo/src/test.cpp"
+		}
+	}
+}

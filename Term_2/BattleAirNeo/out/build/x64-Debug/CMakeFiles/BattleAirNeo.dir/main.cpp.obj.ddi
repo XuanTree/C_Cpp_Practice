@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\BattleAirNeo.dir\\main.cpp.obj",
+            "outputs": [
+                "D:\\C_C++\\Term_2\\BattleAirNeo\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\BattleAirNeo.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

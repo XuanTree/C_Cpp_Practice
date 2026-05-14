@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\BattleAirNeo.dir/objects.a
+D:\MinGW64\bin\ar.exe qc CMakeFiles\BattleAirNeo.dir/objects.a @CMakeFiles\BattleAirNeo.dir\objects1.rsp
+D:\MinGW64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\BattleAirNeo.dir/objects.a -Wl,--no-whole-archive -o BattleAirNeo.exe -Wl,--out-implib,libBattleAirNeo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BattleAirNeo.dir\linkLibs.rsp

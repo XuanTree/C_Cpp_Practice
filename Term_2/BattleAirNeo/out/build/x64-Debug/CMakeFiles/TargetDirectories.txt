@@ -1,0 +1,3 @@
+D:/C_C++/Term_2/BattleAirNeo/out/build/x64-Debug/CMakeFiles/BattleAirNeo.dir
+D:/C_C++/Term_2/BattleAirNeo/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/C_C++/Term_2/BattleAirNeo/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

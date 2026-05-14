@@ -1,0 +1,13 @@
+# ninja log v6
+6	88	8002677047363363	CMakeFiles/BattleAirNeo.dir/src/test.cpp.obj.ddi	95698d43a7c76188
+3	91	8002677047203692	CMakeFiles/BattleAirNeo.dir/main.cpp.obj.ddi	31c474f1ca43e02b
+91	111	8002677048315194	CMakeFiles/BattleAirNeo.dir/CXX.dd	122fce0c3f3928ca
+91	111	8002677048315194	CMakeFiles/BattleAirNeo.dir/CXXModules.json	122fce0c3f3928ca
+91	111	8002677048315194	CMakeFiles/BattleAirNeo.dir/main.cpp.obj.modmap	122fce0c3f3928ca
+91	111	8002677048315194	CMakeFiles/BattleAirNeo.dir/src/test.cpp.obj.modmap	122fce0c3f3928ca
+114	504	8002677048315194	CMakeFiles/BattleAirNeo.dir/src/test.cpp.obj	88f7a07ea84d4e02
+112	505	8002677048315194	CMakeFiles/BattleAirNeo.dir/main.cpp.obj	d579e75fa6b95746
+517	1716	8002677052448260	BattleAirNeo.exe	8c0f4959c44190ce
+6	275	8002682051925859	CMakeFiles/BattleAirNeo.dir/src/test.cpp.obj	2cc1af401745f1a5
+3	520	8002682051925859	CMakeFiles/BattleAirNeo.dir/main.cpp.obj	8f4cd00e90687ff7
+3	510	8002682285092208	CMakeFiles/BattleAirNeo.dir/main.cpp.obj	8f4cd00e90687ff7
