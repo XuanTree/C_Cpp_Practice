@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SFML::Audio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SFML__Audio-Debug-1f8988fae283ec51d427.json",
+					"name" : "SFML::Audio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SFML::Graphics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SFML__Graphics-Debug-ec848e778c8cf187b715.json",
+					"name" : "SFML::Graphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SFML::System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SFML__System-Debug-1d640fa2386ce83ea3f6.json",
+					"name" : "SFML::System",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SFML::Window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SFML__Window-Debug-14901a1cdceb8700e936.json",
+					"name" : "SFML::Window",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PlatForm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PlatForm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PlatForm-Debug-893ae6902e006d4df9a8.json",
+					"name" : "PlatForm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C_C++/Term_2/PlatForm/out/build/GCC14",
+		"source" : "D:/C_C++/Term_2/PlatForm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}

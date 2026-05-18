@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/Visual_Studio",
+  "command": "D:\\MinGW64\\bin\\g++.exe   -g -o CMakeFiles\\Visual_Studio.dir\\main.cpp.obj -c D:\\C_C++\\Visual_Studio\\main.cpp",
+  "file": "D:/C_C++/Visual_Studio/main.cpp",
+  "output": "CMakeFiles/Visual_Studio.dir/main.cpp.obj"
+}
+]

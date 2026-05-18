@@ -1,6 +1,0 @@
-CompileFlags:
-    CompilationDatabase: "cmake-build-debug"
-    Add: [
-        "-Wall",
-        "-std=c++17"
-    ]

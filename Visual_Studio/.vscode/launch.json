@@ -8,7 +8,7 @@
             "name": "Launch",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceRoot}/out/build/x64-debug/Visual_Studio.exe",
+            "program": "${workspaceRoot}/out/build/Visual_Studio/Visual_Studio.exe",
             "args": [],
             "cwd": "${workspaceRoot}"
         }
