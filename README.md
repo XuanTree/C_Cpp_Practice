@@ -15,7 +15,6 @@ Term_1                  // 第一学期C语言的学习和作业
 Term_2                  // 第二学期C++的学习和作业
     | -- Experiment_X       // C++实验X 作业题
     | -- MidTermExam        // C++期中考试备考
-    | -- PlatForm           // 平台跳跃项目
 Visual_Studio           // 关于如何在Visual Studio上配置C/C++, Cmake
 ```
 

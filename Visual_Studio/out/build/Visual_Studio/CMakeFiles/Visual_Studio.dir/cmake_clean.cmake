@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Visual_Studio.dir/main.cpp.obj"
   "CMakeFiles/Visual_Studio.dir/main.cpp.obj.d"
+  "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"
+  "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj.d"
   "Visual_Studio.exe"
   "Visual_Studio.exe.manifest"
   "Visual_Studio.pdb"

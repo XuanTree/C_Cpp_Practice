@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/C_C++/Visual_Studio/main.cpp" "CMakeFiles/Visual_Studio.dir/main.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/main.cpp.obj.d"
+  "D:/C_C++/Visual_Studio/src/Test.cpp" "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
