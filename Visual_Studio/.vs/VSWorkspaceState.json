@@ -7,7 +7,9 @@
   },
   "ExpandedNodes": [
     "",
+    "\\include",
     "\\src"
   ],
+  "SelectedNode": "\\src\\Operators.cpp",
   "PreviewInSolutionExplorer": true
 }

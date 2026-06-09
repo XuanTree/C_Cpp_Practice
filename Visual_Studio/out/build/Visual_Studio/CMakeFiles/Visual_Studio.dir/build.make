@@ -86,11 +86,56 @@ CMakeFiles/Visual_Studio.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Visual_Studio.dir/main.cpp.s"
 	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\C_C++\Visual_Studio\main.cpp -o CMakeFiles\Visual_Studio.dir\main.cpp.s
 
+CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj: CMakeFiles/Visual_Studio.dir/flags.make
+CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj: CMakeFiles/Visual_Studio.dir/includes_CXX.rsp
+CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj: D:/C_C++/Visual_Studio/src/Operators.cpp
+CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj: CMakeFiles/Visual_Studio.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj -MF CMakeFiles\Visual_Studio.dir\src\Operators.cpp.obj.d -o CMakeFiles\Visual_Studio.dir\src\Operators.cpp.obj -c D:\C_C++\Visual_Studio\src\Operators.cpp
+
+CMakeFiles/Visual_Studio.dir/src/Operators.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Visual_Studio.dir/src/Operators.cpp.i"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\C_C++\Visual_Studio\src\Operators.cpp > CMakeFiles\Visual_Studio.dir\src\Operators.cpp.i
+
+CMakeFiles/Visual_Studio.dir/src/Operators.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Visual_Studio.dir/src/Operators.cpp.s"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\C_C++\Visual_Studio\src\Operators.cpp -o CMakeFiles\Visual_Studio.dir\src\Operators.cpp.s
+
+CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj: CMakeFiles/Visual_Studio.dir/flags.make
+CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj: CMakeFiles/Visual_Studio.dir/includes_CXX.rsp
+CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj: D:/C_C++/Visual_Studio/src/STL.cpp
+CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj: CMakeFiles/Visual_Studio.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj -MF CMakeFiles\Visual_Studio.dir\src\STL.cpp.obj.d -o CMakeFiles\Visual_Studio.dir\src\STL.cpp.obj -c D:\C_C++\Visual_Studio\src\STL.cpp
+
+CMakeFiles/Visual_Studio.dir/src/STL.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Visual_Studio.dir/src/STL.cpp.i"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\C_C++\Visual_Studio\src\STL.cpp > CMakeFiles\Visual_Studio.dir\src\STL.cpp.i
+
+CMakeFiles/Visual_Studio.dir/src/STL.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Visual_Studio.dir/src/STL.cpp.s"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\C_C++\Visual_Studio\src\STL.cpp -o CMakeFiles\Visual_Studio.dir\src\STL.cpp.s
+
+CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj: CMakeFiles/Visual_Studio.dir/flags.make
+CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj: CMakeFiles/Visual_Studio.dir/includes_CXX.rsp
+CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj: D:/C_C++/Visual_Studio/src/Templates.cpp
+CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj: CMakeFiles/Visual_Studio.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj -MF CMakeFiles\Visual_Studio.dir\src\Templates.cpp.obj.d -o CMakeFiles\Visual_Studio.dir\src\Templates.cpp.obj -c D:\C_C++\Visual_Studio\src\Templates.cpp
+
+CMakeFiles/Visual_Studio.dir/src/Templates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Visual_Studio.dir/src/Templates.cpp.i"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\C_C++\Visual_Studio\src\Templates.cpp > CMakeFiles\Visual_Studio.dir\src\Templates.cpp.i
+
+CMakeFiles/Visual_Studio.dir/src/Templates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Visual_Studio.dir/src/Templates.cpp.s"
+	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\C_C++\Visual_Studio\src\Templates.cpp -o CMakeFiles\Visual_Studio.dir\src\Templates.cpp.s
+
 CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj: CMakeFiles/Visual_Studio.dir/flags.make
 CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj: CMakeFiles/Visual_Studio.dir/includes_CXX.rsp
 CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj: D:/C_C++/Visual_Studio/src/Test.cpp
 CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj: CMakeFiles/Visual_Studio.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"
 	D:\MinGW64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj -MF CMakeFiles\Visual_Studio.dir\src\Test.cpp.obj.d -o CMakeFiles\Visual_Studio.dir\src\Test.cpp.obj -c D:\C_C++\Visual_Studio\src\Test.cpp
 
 CMakeFiles/Visual_Studio.dir/src/Test.cpp.i: cmake_force
@@ -104,18 +149,24 @@ CMakeFiles/Visual_Studio.dir/src/Test.cpp.s: cmake_force
 # Object files for target Visual_Studio
 Visual_Studio_OBJECTS = \
 "CMakeFiles/Visual_Studio.dir/main.cpp.obj" \
+"CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj" \
+"CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj" \
+"CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj" \
 "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"
 
 # External object files for target Visual_Studio
 Visual_Studio_EXTERNAL_OBJECTS =
 
 Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/main.cpp.obj
+Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj
+Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj
+Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj
 Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj
 Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/build.make
 Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/linkLibs.rsp
 Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/objects1.rsp
 Visual_Studio.exe: CMakeFiles/Visual_Studio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Visual_Studio.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Visual_Studio.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Visual_Studio.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

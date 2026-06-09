@@ -7,6 +7,24 @@
 },
 {
   "directory": "D:/C_C++/Visual_Studio/out/build/Visual_Studio",
+  "command": "D:\\MinGW64\\bin\\g++.exe  @CMakeFiles/Visual_Studio.dir/includes_CXX.rsp -g -o CMakeFiles\\Visual_Studio.dir\\src\\Operators.cpp.obj -c D:\\C_C++\\Visual_Studio\\src\\Operators.cpp",
+  "file": "D:/C_C++/Visual_Studio/src/Operators.cpp",
+  "output": "CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/Visual_Studio",
+  "command": "D:\\MinGW64\\bin\\g++.exe  @CMakeFiles/Visual_Studio.dir/includes_CXX.rsp -g -o CMakeFiles\\Visual_Studio.dir\\src\\STL.cpp.obj -c D:\\C_C++\\Visual_Studio\\src\\STL.cpp",
+  "file": "D:/C_C++/Visual_Studio/src/STL.cpp",
+  "output": "CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/Visual_Studio",
+  "command": "D:\\MinGW64\\bin\\g++.exe  @CMakeFiles/Visual_Studio.dir/includes_CXX.rsp -g -o CMakeFiles\\Visual_Studio.dir\\src\\Templates.cpp.obj -c D:\\C_C++\\Visual_Studio\\src\\Templates.cpp",
+  "file": "D:/C_C++/Visual_Studio/src/Templates.cpp",
+  "output": "CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj"
+},
+{
+  "directory": "D:/C_C++/Visual_Studio/out/build/Visual_Studio",
   "command": "D:\\MinGW64\\bin\\g++.exe  @CMakeFiles/Visual_Studio.dir/includes_CXX.rsp -g -o CMakeFiles\\Visual_Studio.dir\\src\\Test.cpp.obj -c D:\\C_C++\\Visual_Studio\\src\\Test.cpp",
   "file": "D:/C_C++/Visual_Studio/src/Test.cpp",
   "output": "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"

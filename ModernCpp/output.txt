@@ -1,0 +1,44 @@
+=== stringstream delimiter demo ===
+a = ad
+b = a
+c = asdfasd
+d = fasdf;ccc
+
+=== Word count demo ===
+Text:
+Modern C++ is powerful
+stringstream makes text processing easy
+C++23 brings std::print and more
+Use istringstream for parsing strings
+C++ and Modern C++ are the same language
+
+Results:
+  Total words:     27
+  Non-space chars: 148
+  Lines:           5
+  Unique words:    23
+
+Word frequency:
+           C++ : 3
+         C++23 : 1
+        Modern : 2
+           Use : 1
+           and : 2
+           are : 1
+        brings : 1
+          easy : 1
+           for : 1
+            is : 1
+  istringstream : 1
+      language : 1
+         makes : 1
+          more : 1
+       parsing : 1
+      powerful : 1
+    processing : 1
+          same : 1
+    std::print : 1
+       strings : 1
+  stringstream : 1
+          text : 1
+           the : 1

@@ -1,6 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Visual_Studio.dir/main.cpp.obj"
   "CMakeFiles/Visual_Studio.dir/main.cpp.obj.d"
+  "CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj"
+  "CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj.d"
+  "CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj"
+  "CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj.d"
+  "CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj"
+  "CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj.d"
   "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj"
   "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj.d"
   "Visual_Studio.exe"

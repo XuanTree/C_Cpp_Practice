@@ -1,5 +1,5 @@
 CMakeFiles/Visual_Studio.dir/main.cpp.obj: \
- D:\C_C++\Visual_Studio\main.cpp \
+ D:\C_C++\Visual_Studio\main.cpp D:\C_C++\Visual_Studio\include/STL.h \
  D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iostream \
  D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/requires_hosted.h \
  D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -132,4 +132,19 @@ CMakeFiles/Visual_Studio.dir/main.cpp.obj: \
  D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_ios.tcc \
  D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/ostream.tcc \
  D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/istream \
- D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/istream.tcc
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/istream.tcc \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/vector \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_uninitialized.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_vector.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_bvector.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/vector.tcc \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/unordered_map \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/unordered_map.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/hashtable.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/hashtable_policy.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/aligned_buffer.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/enable_special_members.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/node_handle.h \
+ D:/MinGW64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/erase_if.h \
+ D:\C_C++\Visual_Studio\include/templates.h \
+ D:\C_C++\Visual_Studio\include/Operators.h

@@ -9,6 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/C_C++/Visual_Studio/main.cpp" "CMakeFiles/Visual_Studio.dir/main.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/main.cpp.obj.d"
+  "D:/C_C++/Visual_Studio/src/Operators.cpp" "CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj.d"
+  "D:/C_C++/Visual_Studio/src/STL.cpp" "CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj.d"
+  "D:/C_C++/Visual_Studio/src/Templates.cpp" "CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj.d"
   "D:/C_C++/Visual_Studio/src/Test.cpp" "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj" "gcc" "CMakeFiles/Visual_Studio.dir/src/Test.cpp.obj.d"
   )
 

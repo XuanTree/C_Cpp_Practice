@@ -84,12 +84,12 @@ clean: CMakeFiles/Visual_Studio.dir/clean
 CMakeFiles/Visual_Studio.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=1,2,3 "Built target Visual_Studio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target Visual_Studio"
 .PHONY : CMakeFiles/Visual_Studio.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Visual_Studio.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Visual_Studio.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles 0
 .PHONY : CMakeFiles/Visual_Studio.dir/rule
@@ -101,7 +101,7 @@ Visual_Studio: CMakeFiles/Visual_Studio.dir/rule
 # codegen rule for target.
 CMakeFiles/Visual_Studio.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=1,2,3 "Finished codegen for target Visual_Studio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\C_C++\Visual_Studio\out\build\Visual_Studio\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target Visual_Studio"
 .PHONY : CMakeFiles/Visual_Studio.dir/codegen
 
 # clean rule for target.

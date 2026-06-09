@@ -4,5 +4,14 @@ project(Visual_Studio VERSION 0.1.0 LANGUAGES C CXX)
 include_directories(./include)
 aux_source_directory(./src srcs)
 
-add_executable(Visual_Studio main.cpp ${srcs} "src/Test.cpp" "include/Test.h")
+add_executable(Visual_Studio main.cpp ${srcs} 
+	"src/Test.cpp" 
+	"include/Test.h" 
+	"src/Templates.cpp" 
+	"include/Templates.h" 
+	"include/Operators.h" 
+	"src/Operators.cpp" 
+	"include/STL.h" 
+	"src/STL.cpp"
+)
 

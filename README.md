@@ -8,6 +8,7 @@
 
 ```
 LuoGu                   // 在洛谷上刷的OJ题目
+ModernCpp               // 体验一下最新的C++!
 Term_1                  // 第一学期C语言的学习和作业
     | -- BJFUOJ             // 北林OJ上刷的部分题目
     | -- Project            // 第一学期课程设计
@@ -16,6 +17,7 @@ Term_2                  // 第二学期C++的学习和作业
     | -- Experiment_X       // C++实验X 作业题
     | -- MidTermExam        // C++期中考试备考
 Visual_Studio           // 关于如何在Visual Studio上配置C/C++, Cmake
+                        // 以及备战期末考试...?
 ```
 
 如果觉得这个仓库对你有帮助，不妨点一个Star⭐吧~

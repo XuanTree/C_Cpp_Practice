@@ -152,6 +152,78 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/Operators.obj: src/Operators.cpp.obj
+.PHONY : src/Operators.obj
+
+# target to build an object file
+src/Operators.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/Operators.cpp.obj
+.PHONY : src/Operators.cpp.obj
+
+src/Operators.i: src/Operators.cpp.i
+.PHONY : src/Operators.i
+
+# target to preprocess a source file
+src/Operators.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/Operators.cpp.i
+.PHONY : src/Operators.cpp.i
+
+src/Operators.s: src/Operators.cpp.s
+.PHONY : src/Operators.s
+
+# target to generate assembly for a file
+src/Operators.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/Operators.cpp.s
+.PHONY : src/Operators.cpp.s
+
+src/STL.obj: src/STL.cpp.obj
+.PHONY : src/STL.obj
+
+# target to build an object file
+src/STL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/STL.cpp.obj
+.PHONY : src/STL.cpp.obj
+
+src/STL.i: src/STL.cpp.i
+.PHONY : src/STL.i
+
+# target to preprocess a source file
+src/STL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/STL.cpp.i
+.PHONY : src/STL.cpp.i
+
+src/STL.s: src/STL.cpp.s
+.PHONY : src/STL.s
+
+# target to generate assembly for a file
+src/STL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/STL.cpp.s
+.PHONY : src/STL.cpp.s
+
+src/Templates.obj: src/Templates.cpp.obj
+.PHONY : src/Templates.obj
+
+# target to build an object file
+src/Templates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/Templates.cpp.obj
+.PHONY : src/Templates.cpp.obj
+
+src/Templates.i: src/Templates.cpp.i
+.PHONY : src/Templates.i
+
+# target to preprocess a source file
+src/Templates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/Templates.cpp.i
+.PHONY : src/Templates.cpp.i
+
+src/Templates.s: src/Templates.cpp.s
+.PHONY : src/Templates.s
+
+# target to generate assembly for a file
+src/Templates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Visual_Studio.dir\build.make CMakeFiles/Visual_Studio.dir/src/Templates.cpp.s
+.PHONY : src/Templates.cpp.s
+
 src/Test.obj: src/Test.cpp.obj
 .PHONY : src/Test.obj
 
@@ -188,6 +260,15 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... src/Operators.obj
+	@echo ... src/Operators.i
+	@echo ... src/Operators.s
+	@echo ... src/STL.obj
+	@echo ... src/STL.i
+	@echo ... src/STL.s
+	@echo ... src/Templates.obj
+	@echo ... src/Templates.i
+	@echo ... src/Templates.s
 	@echo ... src/Test.obj
 	@echo ... src/Test.i
 	@echo ... src/Test.s
