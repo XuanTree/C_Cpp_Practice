@@ -42,6 +42,43 @@ static WordStats count_words(const std::string& text) {
     return stats;
 }
 
+template<typename T, int N>
+class Queue {
+private:
+    T data[N];
+    size_t head = 0;
+	size_t tail = 0;
+    int count = 0;
+public:
+    Queue() = default;
+    Queue(const Queue&) = default;
+
+    int GetSize() const { return N; }
+    void PushBack(const T& value) {
+        if (count < N) {
+            data[tail] = value;
+            tail = (tail + 1) % N;
+            count++;
+        }
+    }
+    void PopOut() {
+        if (IsEmpty()) return;
+        data[head].~T();
+        head = (head + 1) % N;
+        count--;
+    }
+	void Clear() { 
+		while (!IsEmpty()) {
+            PopOut();
+		}
+        head = 0; tail = 0; count = 0; 
+    }
+	const T& Front() const { return data[head]; }
+	bool IsEmpty() const { return count == 0; }
+	bool IsFull() const { return count == N; }
+
+};
+
 static std::string ReverseString(const std::string& input) {
     std::string temp, res;
 
@@ -101,6 +138,26 @@ int main() {
     std::string reversed = ReverseString(input);
 
     std::cout << reversed << std::endl;
+
+    Queue<std::string, 5> my_queue;
+	my_queue.PushBack("Hello");
+	my_queue.PushBack("World");
+	my_queue.PushBack("From");
+	my_queue.PushBack("C++");
+
+	std::cout << my_queue.GetSize() << std::endl;
+    std::cout << my_queue.IsEmpty() << std::endl;
+	std::cout << my_queue.IsFull() << std::endl;
+
+	my_queue.PushBack("!!!");
+	std::cout << my_queue.IsFull() << std::endl;
+    
+	my_queue.PopOut();
+	std::cout << my_queue.IsFull() << std::endl;
+    my_queue.PushBack("Hello");
+
+	my_queue.Clear();
+	std::cout << my_queue.IsEmpty() << std::endl;
 
     return 0;
 }
